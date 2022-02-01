@@ -1,0 +1,152 @@
+@import"noll.css";
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+.national__title {
+	text-decoration: underline;
+	text-align: center;
+   color: rgba(16, 156, 16, 0.74);
+	line-height: 1.9;
+}
+.national__text {
+	text-decoration: line-through;
+	text-align: justify;
+	text-shadow:20px 20px 50px rgba(236, 6, 6, 0.979),20px 20px 50px rgba(236, 6, 6, 0.979);
+  color: hotpink;
+  line-height: 1.0;
+}
+.national__bottom-text {
+	text-decoration: line-through;
+	text-align: right;
+	color: rgba(96, 14, 155, 0.767);
+}
+.bana__title {
+	text-decoration: underline;
+	text-align: center;
+	color: rgba(155, 143, 39, 0.787);
+}
+.bana__text {
+	text-align: center;
+  text-decoration: underline;
+  color: rgb(22, 110, 106);
+}
+.kungs-leden {
+	line-height: 1.9;
+}
+.kungs__title {
+	text-align: center;
+	text-decoration: underline;
+	color: rgba(59, 189, 59, 0.856);
+}
+.kungs__text {
+	text-decoration: overline;
+	color: rgba(134, 31, 31, 0.911);
+}	
+.kungs__text-bottom {
+	text-align: center;
+	text-decoration: underline;
+	color: rgba(17, 17, 131, 0.801);
+}
+.visitor-center {
+	color: rgba(95, 95, 199, 0.856);
+	text-shadow:20px 20px 50px rgba(236, 6, 6, 0.979);
+}
+.visitor__title {
+	text-align: right;
+}
+.visitor__text {
+	text-align: right;
+}
+.visitor__text-bottom {
+	text-align: center;
+}
+.is-hotell {
+	line-height: 1.8;
+}
+.is__title {
+	text-align: center;
+	text-decoration: line-through;
+	color: rgba(96, 14, 155, 0.767);
+}
+.is__text {
+	color: seagreen;
+	text-align:right;
+}
+.lapp-land {
+	line-height: 1.9;
+}
+.lapp__title {
+	color: violet;
+	text-align: center;
+}
+.lapp__list {
+	letter-spacing: 10px;
+	color: rgba(46, 207, 191, 0.897);
+	text-decoration: line-through;
+	text-shadow:20px 20px 50px rgba(31, 45, 233, 0.979),20px 20px 50px rgba(10, 19, 68, 0.979);
+}
+.lapp-pite {
+	word-spacing: 20px;
+		text-decoration: line-through;
+		color: gray;
+		white-space: nowrap;
+}
+.lapp-kyrka {
+	color: rgba(109, 27, 68, 0.938);
+	text-indent: 25px;
+}
+.lapp-haparanda {
+	text-align: right;
+	color: rgba(97, 93, 55, 0.795);
+		text-shadow:20px 20px 50px rgba(131, 136, 204, 0.979),20px 20px 50px rgba(12, 14, 27, 0.979);
+   text-decoration: overline;
+}
+/* ========================= */
+.wrapper__figma{
+	font-family: lato;
+}
+.job__title{
+	color: #1E212C;
+	font-size: inherit;
+	font-size: 46px;
+   line-height: 150%;
+	font-weight: 900;
+}
+.job__text-top{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+}
+.job__midle p{
+	color: #424551;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 160%;
+}
+.job__text-font-thinck{
+	color: #1E212C;
+	font-style: normal;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 150%;   
+}.job__mautis{
+	color: #424551;
+	font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 160%;   
+}
+.job__menu{
+	color: #424551;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 160%;	
+}
+.job__text-bottom{
+	color: #424551;
+	font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 160%;
+}
